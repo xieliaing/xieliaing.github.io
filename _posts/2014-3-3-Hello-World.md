@@ -3,8 +3,8 @@ layout: post
 title: Welcome!
 ---
 
-This blog records my thoughts and ideas on Data Science field, as well as some other ones
+This blog records my thoughts and ideas on Data Science field, as well as some other IT areas.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+![_datastephash]({{ site.baseurl }}/images/init_hash.jpg)
 
-I used to blog on [SAS Programming](http://sas-programming.blogspot.com) on Blogspot.
+I used to blog on [SAS Programming](https://sas-programming.blogspot.com) on Blogger but it is abandoned ever since March 2019.
