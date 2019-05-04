@@ -1,4 +1,7 @@
-# Science in Data Science
+---
+layout: post
+title: Science in Data Science
+---
 
 ![_ds1]({{ site.baseurl }}/images/science_of_ds_1.png)
 
