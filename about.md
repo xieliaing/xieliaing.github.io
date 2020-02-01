@@ -4,12 +4,20 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+- Distinguished Data Scientist at DiDi Chuxing
+
+- Principal Lead Data Scientist at Microsoft
+
+- Analytics Director at Travelers Insurance
+
+- Senior Analyst at Reliant Energy
+
+- Senior Analyst at Countrywide Financial Corp
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+[My LinkedIn Profile:](https://www.linkedin.com/in/liangxie/)
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[Contact me here](mailto:xie1978@yahoo.com)
